@@ -51,8 +51,8 @@ Contributions to this project are welcome! For major changes, please open an iss
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contact
-- Your Name – [your@email.com](mailto:your@email.com)
-- Project Link: [https://github.com/your-username/your-repository-name](https://github.com/your-username/your-repository-name)
+- Your Name – [efimdima@ya.ru](mailto:your@email.com)
+- Project Link: [https://github.com/DmitryTakoy](https://github.com/your-username/your-repository-name)
 
 ## Acknowledgments
 - Inspired by the need for efficient invoice processing in small businesses.
