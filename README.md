@@ -1,6 +1,4 @@
-# Writing the README.md content to a file
 
-readme_content = """
 # Automatic Invoice Creator
 
 ## Description
