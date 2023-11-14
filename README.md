@@ -12,17 +12,17 @@ The Automatic Invoice Creator is a Python-based tool designed to automate the pr
 
 ### Installing
 1. Clone the repository:
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/DmitryTakoy/Automatic-Invoice-Creator.git
 
 css
 Copy code
 2. Navigate to the project directory:
-cd your-repository-name
+cd Automatic-Invoice-Creator
 
 markdown
 Copy code
 3. Install required Python libraries:
-pip install pandas fpdf
+pip install -r requirements.txt
 
 markdown
 Copy code
